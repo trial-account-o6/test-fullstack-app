@@ -1,0 +1,9 @@
+version: "3"
+
+services:
+  frontend:
+    image: node:20
+
+  backend:
+    image: node:20
+    
